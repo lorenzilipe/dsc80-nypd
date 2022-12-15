@@ -1,16 +1,14 @@
 # Race, Gender and Age Bias in Outcomes of NYPD Complaints
-Our approach to one of the assignments for DSC 80 (Practice of Data Science) at UCSD. Contains PDFs of the code used and full writeup that was submitted.
+Our approach to one of the assignments for DSC 80 (Practice of Data Science) at UCSD. Contains Jupyter notebooks with code and markdown which walks the reader through our findings.
 
 ## Files
-`Writeup.pdf` Contains final formatted writeup of this project.
+`eda.ipynb` Contains exploratory data analysis portion of assignment.
 
-`Code.pdf` Contains a Jupyter notebook PDF of all of the code used for the project.
+`modelling.ipynb` Contains modeling portion of the assignment.
 
 ## Overview
-In this report we are trying to study the origin of DNA replication by looking for unusual clusters of palindromes within a DNA sequence. Our dataset 
-comprises the DNA locations of the 296 palindromes (at least 10 letters long) found in the Cytomegalovirus DNA molecule, which contains 229,354 
-complementary base pairs.
+**Dataset:** Includes more than 12,000 civilian complaints filed against NYPD police officers from 1985 to early 2020, available to NYC's Civilian Complaint Review Board (CCRB). Complaints included are only those of officers still on the force as of late June 2020, as well as those which were confirmed to have actually happened. Regardless, not all complaints were ruled to have violated the NYPD's rules of conduct.
 
-The main goal of this analysis is to investigate the distribution of palindromes across the CMV DNA sequence. In this analysis, we use numerical 
-summaries and graphical methods to describe the distribution of palindromes across our dataset, as well as across 10 simulations of uniform 
-distributions of 296 palindrome locations (out of 229,354).
+The data also includes demographic information about the complainants and the officers in each case, as well as the type and outcome of the complaints.
+
+**Objective:** We intend to use the demographic information provided in conjunction with the outcomes of each case in order to investigate if gender played a role in the validation of a complainant’s case.
