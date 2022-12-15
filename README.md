@@ -15,7 +15,9 @@ The data also includes demographic information about the complainants and the of
 
 ## Authors
 > Felipe Lorenzi
+> <br/>
 > lorenzifelipe7@gmail.com
 
 > Anna Preger
+> <br/>
 > annapguida@gmail.com
