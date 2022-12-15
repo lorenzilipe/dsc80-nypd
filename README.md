@@ -12,3 +12,10 @@ Our approach to one of the assignments for DSC 80 (Practice of Data Science) at 
 The data also includes demographic information about the complainants and the officers in each case, as well as the type and outcome of the complaints.
 
 **Objective:** We intend to use the demographic information provided in conjunction with the outcomes of each case in order to investigate if gender played a role in the validation of a complainant’s case.
+
+## Authors
+> Felipe Lorenzi
+> lorenzifelipe7@gmail.com
+
+> Anna Preger
+> annapguida@gmail.com
