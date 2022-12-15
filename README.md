@@ -1,4 +1,4 @@
-# Race, Gender and Age Bias in Outcomes of NYPD Complaints
+# Race, Gender and, Age Bias in Outcomes of NYPD Complaints
 Our approach to one of the assignments for DSC 80 (Practice of Data Science) at UCSD. Contains Jupyter notebooks with code and markdown which walks the reader through our findings.
 
 ## Files
